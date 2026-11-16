@@ -11,11 +11,11 @@ npm install
 npm run dev
 ```
 
-| Command | What it does |
-|---|---|
-| `npm run dev` | Start the development server |
-| `npm run build` | Build the production site |
-| `npm run lint` | Lint the code |
-| `npm run typecheck` | Check types |
-| `npm test` | Run unit tests |
-| `npm run format` | Format the code |
+| Command             | What it does                 |
+| ------------------- | ---------------------------- |
+| `npm run dev`       | Start the development server |
+| `npm run build`     | Build the production site    |
+| `npm run lint`      | Lint the code                |
+| `npm run typecheck` | Check types                  |
+| `npm test`          | Run unit tests               |
+| `npm run format`    | Format the code              |
